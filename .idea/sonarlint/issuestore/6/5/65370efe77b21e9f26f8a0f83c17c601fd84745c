@@ -1,0 +1,9 @@
+
+Dsquid:S1170"!Make this final field static too.(ÂŠ‰­şÿÿÿÿ8ŞãÓ¾ê,
+†squid:S14882"cImmediately return this expression instead of assigning it to the temporary variable "stringFinal".(ÔÛ¤Èşÿÿÿÿ8—úæÂê,
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿßàşÿÿÿÿ8­Â±¾ê,
+:squid:S1643E"Use a StringBuilder instead.(ö¹úï8²²äÀê,
+dsquid:S1126T"AReplace this if-then-else statement by a single return statement.(¼ñ€Úúÿÿÿÿ8è™»¾ê,
+†squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "stringFinal".(ÔÛ¤Èşÿÿÿÿ8×÷âÂê,
+1squid:S1220""Move this file to a named package.
+:squid:S1643B"Use a StringBuilder instead.(¼ô 8¼ûŞÀê,
